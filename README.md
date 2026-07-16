@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, Welcome to my Github Profile. <br/>
-Full-Stack Developer
+Software Developer
 
 
 ## 🌐 Socials:
