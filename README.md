@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, Welcome to my Github Profile. <br/>
-Software Developer
+Data Engineer || Software Developer 
 
 
 ## 🌐 Socials:
